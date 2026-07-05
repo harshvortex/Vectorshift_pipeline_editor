@@ -1,0 +1,6 @@
+{
+  "name": "Pipeline Builder",
+  "description": "An interactive VectorShift visual pipeline builder featuring node abstraction, dynamic resizing text nodes, double curly brace variable handle generation, and directed acyclic graph (DAG) cycle validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
